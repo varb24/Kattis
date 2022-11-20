@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\hello\Documents\GitHub\Kattis\.metadata\.plugins\org.eclipse.jdt.core
+195030701.index
+3582903896.index
+1865797976.index

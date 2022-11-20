@@ -1,0 +1,11 @@
+package dummy;
+import java.util.Scanner;
+public class BuildingPyramids {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
